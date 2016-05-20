@@ -9,7 +9,9 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+        <asp:HyperLink ID="HyperLink1" runat="server">
+            <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label></asp:HyperLink>
+
     </div>
     </form>
 </body>
