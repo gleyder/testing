@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="WebApp.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="WebApp.Home" %>
 
 <!DOCTYPE html>
 
@@ -7,8 +7,6 @@
     <title></title>
 </head>
 <body>
-    <h1>Hola Prueba</h1>
-    lal
     <form id="form1" runat="server">
     <div>
     
